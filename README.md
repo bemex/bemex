@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bemex
+- 👋 Hi, I’m Tomaz
 - 👀 I’m interested in learning to code and connect with oders.
 - 🌱 I’m currently learning HTML5, CSS and JavaScript. But in the future i will learn also other languages.
 - 💞️ I’m looking to collaborate on a different projects.
